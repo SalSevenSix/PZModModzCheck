@@ -1,0 +1,6 @@
+version=1
+id=2820127528
+title=Modz Check
+description=Periodically checks Steam for Workshop items that require update. Prints a message to the server console to indicate that a restart is required. Use only ONE Mod ID. ModzCheck (every 5 minutes), ModzCheck15 (every 15 minutes) or ModzCheck30 (every 30 minutes).
+tags=Build 41
+visibility=public

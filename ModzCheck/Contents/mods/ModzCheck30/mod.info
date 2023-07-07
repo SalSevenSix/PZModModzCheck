@@ -1,0 +1,5 @@
+name=Modz Check 30
+poster=poster.png
+id=ModzCheck30
+description=Checks Steam every 30 minutes for Workshop items that require update. Prints a message to the server console to indicate that a restart is required.
+url=
